@@ -2,55 +2,55 @@
     "movies": [
       {
         "title": "Ashes",
-        "image": "api/images/Ashes.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/Ashes.webp",
         "description": "After discovering his parents' final wish is to have their ashes scattered where they first met, Liam and his closest friends set out to explore the place for themselves as they navigate old memories while creating new ones.",
         "movieLink": "https://www.imdb.com/title/tt4577050/?ref_=nm_flmg_t_7_prd"
       },
       {
         "title": "Battleground",
-        "image": "api/images/Battleground.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/Battleground.webp",
         "description": "A bank robbery goes awry, and the robbers hold up within a forest, but there is another that dwells here, an ex-Vietnam vet. Soon, a battle of survival erupts as the thieves now have to fight for their very existence.",
         "movieLink": "https://www.imdb.com/video/vi3251283225/?playlistId=tt1754506&ref_=tt_ov_vi"
       },
       {
         "title": "Feed The Devil",
-        "image": "api/images/Feed The Devil.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/Feed The Devil.webp",
         "description": "A hunt for easy money turns into a deadly search for a missing loved one as outsiders confront the evil forces behind a native American myth.",
         "movieLink": "https://www.imdb.com/video/vi3220092441/?playlistId=tt3288992&ref_=tt_ov_vi"
       },
       {
         "title": "Silent Night",
-        "image": "api/images/Silent Night.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/Silent Night.webp",
         "description": "Mark, a low-end South London hitman recently released from prison, tries to go straight for his daughter but gets drawn back in by Alan, his former cellmate, to do one final job.",
         "movieLink": "https://www.imdb.com/video/vi1311490073/?playlistId=tt9752248&ref_=tt_pr_ov_vi"
       },
       {
         "title": "Sleeping Beauties",
-        "image": "api/images/Sleeping Beauties.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/Sleeping Beauties.webp",
         "description": "Cahya gets a job as a maid working in an isolated old mansion. Pregnant and a recent widow, she is desperate to reconnect with her husband, opening a doorway to the spirit world. And in doing so, she inadvertently awakens the tormented ghosts of her current employer, the previous maids.",
         "movieLink": "https://www.imdb.com/title/tt10211984/?ref_=nm_flmg_t_1_prd"
       },
       {
         "title": "The Three Dont's",
-        "image": "api/images/The Three Don'ts.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/The Three Don'ts.webp",
         "description": "Two lads receive a simple job with a big payout. All is not as it seems, and if they break The Three Don'ts, they could be in a world of hurt.",
         "movieLink": "https://www.imdb.com/title/tt4900098/?ref_=nm_flmg_t_6_prd"
       },
       {
         "title": "The Red",
-        "image": "api/images/TheRed.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/TheRed.webp",
         "description": "A young sheriff, obsessed with living up to her dead father’s legacy, finds her mettle tested to the limit when locals are found ripped to shreds. Now, she must finally face up to her past and work with her eccentric Vietnam Veteran uncle to defeat the beast before it kills everyone in town.",
         "movieLink": "https://www.imdb.com/title/tt22306090/?ref_=nm_flmg_unrel_1_prd"
       },
       {
         "title": "To Our Bright White Hearts",
-        "image": "api/images/To Our Bright White Hearts.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/To Our Bright White Hearts.webp",
         "description": "Written/directed by Ayz Waraich, it is a tale of anxiety, heartache, family, and the collisions between strangers.",
         "movieLink": "https://www.imdb.com/title/tt2265631/?ref_=nm_knf_t_4"
       },
       {
         "title": "Two Heads Creek",
-        "image": "api/images/Two Heads Creek.webp",
+        "image": "https://muzenjakkevin.github.io/dicentium-movie-api/api/images/Two Heads Creek.webp",
         "description": "A timid butcher and his drama queen twin sister quit the hostile confines of post-Brexit Britain and adventure to Australia in search of their birth mother. Still, the seemingly tolerant townsfolk are hiding a dark, meaty secret.",
         "movieLink": "https://www.imdb.com/video/vi3461004825/?playlistId=tt6515200&ref_=tt_ov_vi"
       }
